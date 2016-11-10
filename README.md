@@ -1,2 +1,2 @@
 # My-Repo
-My own repository
+My repository
